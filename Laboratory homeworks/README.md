@@ -10,4 +10,4 @@ Repository created - The beginning of the homework list
 analogRGBcontrol - A short program that uses 3 potentiometers to "mix" the light of a RGB led
 
 # 4th Homework
-- 
+PassiveActiveBuzzerButton - One program that makes an active buzzer beep after a passive buzzer detects a knock, stoping the sound with a pushbutton
