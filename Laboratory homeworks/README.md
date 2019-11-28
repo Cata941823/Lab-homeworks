@@ -14,3 +14,7 @@ PassiveActiveBuzzerButton - One program that makes an active buzzer beep after a
 
 # 5th Homework
 4x7-led-segment-display-and-joystick temporary - This is a setup that works depending on the joystick, moving on the X and Y axis, selecting one of the 4 7-led-segment with the switch button.
+
+# 6th Homework
+https://youtu.be/nsIiqDShfr8
+gameMenu - It is a setup that works with the joystick and the LCD, displaying a menu and applying some basic tasks with it.
