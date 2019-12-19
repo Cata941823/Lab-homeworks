@@ -389,6 +389,20 @@ void marginSolve() {
 
 void endingGame() {
   if (gameOver || win) {
+    tone(buzzer_pin, 500, 200);
+    wait(200);
+    tone(buzzer_pin, 1200, 200);
+    wait(200);
+    tone(buzzer_pin, 300, 200);
+    wait(200);
+    tone(buzzer_pin, 1000, 200);
+    wait(200);
+    tone(buzzer_pin, 400, 200);
+    wait(200);
+    tone(buzzer_pin, 1100, 200);
+    wait(200);
+    noTone(buzzer_pin);
+
     // ending animation showing the score
     if (EEPROMReadInt(0) <= prevscore) showHighscore();
     wait(10);
@@ -411,6 +425,7 @@ void endingGame() {
     score = 0;
     startingLevel = 0;
     level = 0;
+    snakeSpeed = 500;
 
     /*  resets the gameboard matrix
       cool function that resets the memory back to 0
@@ -805,7 +820,7 @@ void showWinMessage() {
 
 // scrolls the 'score' message with numbers around the matrix
 void showScoreMessage(int score) {
-  if (score < 0 || score > 99) return;
+  if (score < 0 || score > 312) return;
 
   // specify score digits
   int second = score % 10;
