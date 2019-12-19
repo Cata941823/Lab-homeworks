@@ -21,4 +21,7 @@ So for this game I wanted to introduce some of the basic requirements game featu
 </p>
 
 # :computer: Hardware components :computer:
-![HARDWARE COMPONENTS](https://i.ibb.co/dfkBgJZ/Proiect.png)
+![HARDWARE COMPONENTS](https://i.ibb.co/L1JKzjy/Proiect.png)
+
+# FRITZING SCHEMA
+![FRITZING SCHEMA](https://i.ibb.co/Ph2XHk1/PROIECT-SNAKE.png)
