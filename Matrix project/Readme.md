@@ -14,6 +14,7 @@ So for this game I wanted to introduce some of the basic requirements game featu
  * **More lives** will be added when a player reaches level 10, 20
  * **Stored highscore** into the EEPROM
  * **Animations** (in the beginning, when gaining life, when losing life, highscore, score, game over when the snake dies)
+ * **MENU**: Start Game, Highscore (stored from EEPROM), Settings(Snake length between 3 and 8), INFO (with my name, github link, game name, unibuc robotics)
  
 <h3 align="center"> :movie_camera: YOUTUBE VIDEO PROJECT :movie_camera: <h3>
 <p align="center">
