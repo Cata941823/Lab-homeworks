@@ -8,17 +8,18 @@ Being one of the most popular games in the history and one of the coolest, I hav
 # :video_game: Game specification
 
 So for this game I wanted to introduce some of the basic requirements game features like:
- * **Score**, varying from the dots eaten by snake
+ * **Score**, varying from the dots eaten by snake ( + 1 for 0-9, +4 for 10-30, +6 for 30-60, +10 for 60-64)
  * **Speed**, growing the complexity of the game by increasing the speed when reaching certain levels (5, 10, multiple of 5)
  * **Levels** are determined by the growth of the snake/number of dots eaten
- * **More lives** will be added when a player reaches level 20, 40, 60
+ * **More lives** will be added when a player reaches level 10, 20
  * **Stored highscore** into the EEPROM
- * **Animations** (when the snake dies)
+ * **Animations** (in the beginning, when gaining life, when losing life, highscore, score, game over when the snake dies)
  
 <h3 align="center"> :movie_camera: YOUTUBE VIDEO PROJECT :movie_camera: <h3>
 <p align="center">
-  <img src="https://img.youtube.com/vi/OYyiEZAb2z8/0.jpg" href="
-https://www.youtube.com/watch?v=OYyiEZAb2z8"/>
+  <img src="https://img.youtube.com/vi/OYyiEZAb2z8/0.jpg" href="https://www.youtube.com/watch?v=OYyiEZAb2z8">
 </p>
+
 # :computer: Hardware components :computer:
-![HARDWARE COMPONENTS](https://i.ibb.co/F78q68K/Proiect.png)
+
+![HARDWARE COMPONENTS](https://i.ibb.co/dfkBgJZ/Proiect.png)
