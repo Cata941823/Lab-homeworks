@@ -18,3 +18,7 @@ PassiveActiveBuzzerButton - One program that makes an active buzzer beep after a
 # 6th Homework
 https://youtu.be/nsIiqDShfr8
 gameMenu - It is a setup that works with the joystick and the LCD, displaying a menu and applying some basic tasks with it.
+
+# 1st PROJECT
+https://github.com/Cata941823/Lab-homeworks/tree/master/Matrix%20project
+SNAKE GAME - this is a fun project that presents the classic snake game, where I combined the LCD, joystick, 8x8 LED Matrix and arduino to create a cute game
