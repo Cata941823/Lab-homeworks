@@ -17,8 +17,8 @@ So for this game I wanted to introduce some of the basic requirements game featu
  
 <h3 align="center"> :movie_camera: YOUTUBE VIDEO PROJECT :movie_camera: <h3>
 <p align="center">
-  <img src="https://img.youtube.com/vi/nsIiqDShfr8/0.jpg" href="https://www.youtube.com/watch?v=nsIiqDShfr8"/>
+  <img src="https://img.youtube.com/vi/OYyiEZAb2z8/0.jpg" href="
+https://www.youtube.com/watch?v=OYyiEZAb2z8"/>
 </p>
-
 # :computer: Hardware components :computer:
 ![HARDWARE COMPONENTS](https://i.ibb.co/F78q68K/Proiect.png)
