@@ -26,3 +26,6 @@ So for this game I wanted to introduce some of the basic requirements game featu
 
 # FRITZING SCHEMA
 ![FRITZING SCHEMA](https://i.ibb.co/Ph2XHk1/PROIECT-SNAKE.png)
+
+# THE FINAL RESULT
+![FINAL CONFIGURATION]https://i.ibb.co/Gdjhktk/c4ffc40e-e404-43da-8a30-0e697d2e0778.jpg
