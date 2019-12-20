@@ -283,7 +283,7 @@ void calculateSnake() {
     lcd.setCursor(0, 0);
     lcd.print("YOU LOST A LIFE");
     wait(10);
-    matrix.setLed(0, snake.row, snake.col, millis() % 100 < 50 ? 1 : 0);
+    matrix.setLed(0, snake.row, snake.col, 1);
     wait(2000);
   }
   // end of the game
@@ -388,7 +388,7 @@ void marginSolve() {
 }
 
 void endingGame() {
-  if (gameOver || win) {
+  if (gameOver || win) { 
     tone(buzzer_pin, 500, 200);
     wait(200);
     tone(buzzer_pin, 1200, 200);
@@ -425,7 +425,6 @@ void endingGame() {
     score = 0;
     startingLevel = 0;
     level = 0;
-    snakeSpeed = 500;
 
     /*  resets the gameboard matrix
       cool function that resets the memory back to 0
@@ -820,7 +819,7 @@ void showWinMessage() {
 
 // scrolls the 'score' message with numbers around the matrix
 void showScoreMessage(int score) {
-  if (score < 0 || score > 312) return;
+  if (score < 0 || score > 99) return;
 
   // specify score digits
   int second = score % 10;
@@ -1176,12 +1175,6 @@ void setting(int number) {
     break;
   }
 }
-
-/*-------------------------------------------------
-  |         EEPROM READ&WRITE FUNCTIONS            |
-  -------------------------------------------------
-*/
-
 
 void EEPROMWriteInt(int address, int value)
 {
