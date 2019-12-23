@@ -20,7 +20,8 @@ So for this game I wanted to introduce some of the basic requirements game featu
 <p align="center">
   <img src="https://img.youtube.com/vi/OYyiEZAb2z8/0.jpg" href="https://www.youtube.com/watch?v=OYyiEZAb2z8">
 </p>
-
+https://www.youtube.com/watch?v=OYyiEZAb2z8
+ 
 # :computer: Hardware components :computer:
 ![HARDWARE COMPONENTS](https://i.ibb.co/L1JKzjy/Proiect.png)
 
